@@ -1,6 +1,6 @@
 solutions = [
   { "name"        : "src/xwalk",
-    "url"         : "https://github.com/medic/crosswalk.git@master",
+    "url"         : "https://github.com/maxiannunziata/crosswalk.git@chromium_77",
     "deps_file"   : "DEPS",
     "managed"     : True,
     "custom_deps" : {
